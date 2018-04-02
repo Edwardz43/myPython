@@ -1,0 +1,1258 @@
+li id="4135" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4135.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4135&posColumn=4135.1">
+			<img src="https://a1.jikexueyuan.com/home/201803/14/111e/5aa8b685a69eb.jpg" class="lessonimg" title="AWS云计算数据搜索与分析--- Amazon Elasticsearch" alt="AWS云计算数据搜索与分析--- Amazon Elasticsearch">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4135&posColumn=4135.1"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4135.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4135&posColumn=4135.1">AWS云计算数据搜索与分析--- Amazon Elasticsearch</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要讲解Amazon Elasticsearch作为一项完全托管的数据搜索和分析服务，它的技术优势和典型的应用场景，然后通过示例一步步指导如何轻松创建，访问、管理和维护Amazon Elasticsearch集群以及通过Amazon Elasticsearch内嵌的kibana进行数据展示。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							46分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">242人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4135&posColumn=4135.1&aCCate=awsold" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4119" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4119.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4119&posColumn=4119.2">
+			<img src="https://a1.jikexueyuan.com/home/201801/09/8aaa/5a5416bdead90.jpg" class="lessonimg" title="使用 AWS 降低总拥有成本 (TCO)" alt="使用 AWS 降低总拥有成本 (TCO)">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4119&posColumn=4119.2"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4119.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4119&posColumn=4119.2">使用 AWS 降低总拥有成本 (TCO)</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			了解TCO的大致概念；
+介绍传统数据中心的典型成本框架；
+分析传统数据中心在降低TCO上面临的挑战；
+了解AWS的定价基础
+介绍AWS如何帮助客户降低TCO及具体方法；
+简略介绍通过优化不断提升AWS云经济性的途径；
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							36分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">642人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4119&posColumn=4119.1&aCCate=awsold" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4114" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4114.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4114&posColumn=4114.3">
+			<img src="https://a1.jikexueyuan.com/home/201712/22/c87d/5a3cb741e24dd.jpg" class="lessonimg" title="AWS 云产品—开始使用 AWS 上的 Microsoft SQL Server" alt="AWS 云产品—开始使用 AWS 上的 Microsoft SQL Server">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4114&posColumn=4114.3"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4114.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4114&posColumn=4114.3">AWS 云产品—开始使用 AWS 上的 Microsoft SQL Server</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			AWS云核心产品课程将为您介绍云计算基础知识，让您更熟悉 AWS 基础服务如EC2、VPC、S3、EBS等，认识与 AWS 平台相关的术语和概念以及浏览 AWS 管理控制台，以便根据业务需求针对 IT 基础架构基础做出明智的决策并开始使用 AWS。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							36分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">427人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4114&posColumn=4114.1&aCCate=awsold" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4113" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4113.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4113&posColumn=4113.4">
+			<img src="https://a1.jikexueyuan.com/home/201712/22/f1b5/5a3cb610f05c3.jpg" class="lessonimg" title="云上的数据分析-实时流处理在AWS上的实现与实践" alt="云上的数据分析-实时流处理在AWS上的实现与实践">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4113&posColumn=4113.4"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4113.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4113&posColumn=4113.4">云上的数据分析-实时流处理在AWS上的实现与实践</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程讲解了AWS上的数据分析的技术云架构，解决方案、客户案例以及精彩在线演示。让如何解决您遇到数据处理的问题，大数据架构应遵循怎样的架构。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							58分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">274人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4113&posColumn=4113.1&aCCate=awsold" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4112" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4112.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4112&posColumn=4112.5">
+			<img src="https://a1.jikexueyuan.com/home/201712/22/8549/5a3cb56d58360.jpg" class="lessonimg" title="AWS云安全-数据加密和密钥管理" alt="AWS云安全-数据加密和密钥管理">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4112&posColumn=4112.5"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4112.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4112&posColumn=4112.5">AWS云安全-数据加密和密钥管理</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程了解AWS在安全防御领域的技术、解决方案、客户案例以及精彩在线演示。其中，讲解了动态和静态数据的加密保护和密钥管理；并介绍AWS KMS服务、AWS CloudHSM 最佳实践。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>6课时
+							87分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">239人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4112&posColumn=4112.1&aCCate=awsold" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4111" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4111.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4111&posColumn=4111.6">
+			<img src="https://a1.jikexueyuan.com/home/201712/22/c8b6/5a3cb4d56961e.jpg" class="lessonimg" title="AWS云计算-Amazon ML 机器学习实战" alt="AWS云计算-Amazon ML 机器学习实战">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4111&posColumn=4111.6"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4111.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4111&posColumn=4111.6">AWS云计算-Amazon ML 机器学习实战</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			想了解如何通过AWS满足您的业务需求？我们将在本课程中介绍面向各种应用场景的云服务及其搭建和使用方法，让AWS为您的业务应用提供高性能、低成本、安全的基础设施解决方案。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>6课时
+							79分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">278人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4111&posColumn=4111.1&aCCate=awsold" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4110" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4110.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4110&posColumn=4110.7">
+			<img src="https://a1.jikexueyuan.com/home/201712/22/4748/5a3cb3e2a168c.jpg" class="lessonimg" title="AWS云计算-加速企业数据迁移上云" alt="AWS云计算-加速企业数据迁移上云">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4110&posColumn=4110.7"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4110.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4110&posColumn=4110.7">AWS云计算-加速企业数据迁移上云</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			课程将结合实际案例，为您介绍如何在AWS云上部署应用，以及如何实现从传统数据中心向云端的迁移。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							43分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">154人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4110&posColumn=4110.1&aCCate=awsold" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4101" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4101.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4101&posColumn=4101.8">
+			<img src="https://a1.jikexueyuan.com/home/201711/21/8a5b/5a13b8e2a13cf.jpg" class="lessonimg" title="无服务器架构系列讲解 - Lambda + API Gateway" alt="无服务器架构系列讲解 - Lambda + API Gateway">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4101&posColumn=4101.8"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4101.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4101&posColumn=4101.8">无服务器架构系列讲解 - Lambda + API Gateway</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			Lambda是AWS提供的一款无服务器计算服务。您不需要管理服务器、不需要安装操作系统、不需要维护运行时环境、不需要担心应用的可用性和扩展性。本课程主要会以Demo形式讲解AWS Lambda的概念，编程模型、并发问题、版本控制 ，怎么构建Lambda函数， 配合DynamoDB进行数据库交互，配合S3进行事件触发（图片压缩、水印等），配合Kinesis就行实时流数据处理，配合SNS就行消息通知事件触发等，以及如何构建一个动态交互式网站。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>13课时
+							88分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1205人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/AWS/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201707/12/cfaf/59658a14894bf.png" alt="AWS" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4101&posColumn=4101.1&aCCate=AWS" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="3650" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/3650.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3650&posColumn=3650.9">
+			<img src="https://a1.jikexueyuan.com/home/201710/30/d090/59f6d46dcb4dc.jpg" class="lessonimg" title="微软人工智能 － 服务和API" alt="微软人工智能 － 服务和API">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3650&posColumn=3650.9"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/3650.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3650&posColumn=3650.9">微软人工智能 － 服务和API</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			以微软认知服务和机器人框架为代表的服务和API，让你的应用和服务可以轻而易举的拥有人的智慧。
+
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>11课时
+							402分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">6135人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/APIservice/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201706/14/877c/5940f8bcad46a.png" alt="APIservice" title="服务与API" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=3650&posColumn=3650.1&aCCate=APIservice" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4072" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4072.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4072&posColumn=4072.10">
+			<img src="https://a1.jikexueyuan.com/home/201710/26/1f53/59f1ca993565c.jpg" class="lessonimg" title="在混合云模式中现代化您的微软应用程序" alt="在混合云模式中现代化您的微软应用程序">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4072&posColumn=4072.10"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4072.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4072&posColumn=4072.10">在混合云模式中现代化您的微软应用程序</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程将介绍混合云方法的各种好处。通过探索客户的成功案例，了解混合云方法带来哪些好处；了解如何通过Amazon Elastic Compute Cloud（EC2）削减成本；了解如何提高安全性而不影响性能。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>5课时
+							39分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1555人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/AWS/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201707/12/cfaf/59658a14894bf.png" alt="AWS" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4072&posColumn=4072.1&aCCate=AWS" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4071" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4071.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4071&posColumn=4071.11">
+			<img src="https://a1.jikexueyuan.com/home/201710/26/3e2f/59f1c9596091d.jpg" class="lessonimg" title="AWS云中的设计高可用架构-弹性和高可用的思考" alt="AWS云中的设计高可用架构-弹性和高可用的思考">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4071&posColumn=4071.11"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4071.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4071&posColumn=4071.11">AWS云中的设计高可用架构-弹性和高可用的思考</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程中，AWS技术专家将会通过展示和实操的方式带您了解如何在管理控制台中对相关的AWS服务进行配置和操作，从而让您快速上手开始搭建自己的云架构。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							30分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1483人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/AWS/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201707/12/cfaf/59658a14894bf.png" alt="AWS" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4071&posColumn=4071.1&aCCate=AWS" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4070" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4070.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4070&posColumn=4070.12">
+			<img src="https://a1.jikexueyuan.com/home/201710/26/4dc2/59f1c8b25e550.jpg" class="lessonimg" title="AWS EC2 RI 基本介绍" alt="AWS EC2 RI 基本介绍">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4070&posColumn=4070.12"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4070.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4070&posColumn=4070.12">AWS EC2 RI 基本介绍</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程对AWS EC2 RI的基本介绍及购买方法。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>2课时
+							7分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1568人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/AWS/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201707/12/cfaf/59658a14894bf.png" alt="AWS" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4070&posColumn=4070.1&aCCate=AWS" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4069" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4069.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4069&posColumn=4069.13">
+			<img src="https://a1.jikexueyuan.com/home/201710/25/8d3c/59f00de97270b.jpg" class="lessonimg" title="Amazon EC2 Container Service (ECS) 介绍" alt="Amazon EC2 Container Service (ECS) 介绍">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4069&posColumn=4069.13"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4069.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4069&posColumn=4069.13">Amazon EC2 Container Service (ECS) 介绍</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程Amazon EC2 Container Service介绍，教您快速使用ECS 运行服务，和上传ECS 镜像。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							36分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1470人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/AWS/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201707/12/cfaf/59658a14894bf.png" alt="AWS" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4069&posColumn=4069.1&aCCate=AWS" >
+					</a>
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4069&posColumn=4069.2&aCCate=awsold" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4068" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4068.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4068&posColumn=4068.14">
+			<img src="https://a1.jikexueyuan.com/home/201710/25/1a8d/59f00dbfa5973.jpg" class="lessonimg" title="AWS云中的关系型数据库服务 RDS （下）—使用 Amazon RDS创建数据库" alt="AWS云中的关系型数据库服务 RDS （下）—使用 Amazon RDS创建数据库">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4068&posColumn=4068.14"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4068.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4068&posColumn=4068.14">AWS云中的关系型数据库服务 RDS （下）—使用 Amazon RDS创建数据库</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本期课程讲述AWS云中的负载均衡服务RDS（Amazon Relational Database Service ）。 AWS 云提供六种常用数据库引擎以供选择的托管关系数据库。只需单击数下，即可在云中设置、运行和扩展关系数据库。Amazon RDS 在多种类型的数据库实例 (针对内存、性能或 I/O 进行了优化的实例、) 上均可用，并提供六种常用的数据库引擎供您选择，包括 Amazon Aurora、PostgreSQL、MySQL、MariaDB、Oracle 和 Microsoft SQL Server。您可以使用 AWS Database Migration Service 轻松将您现有的数据库迁移或复制到 Amazon RDS。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>6课时
+							41分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1403人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4068&posColumn=4068.1&aCCate=awsold" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4067" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4067.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4067&posColumn=4067.15">
+			<img src="https://a1.jikexueyuan.com/home/201710/25/8d55/59f00d7487ad9.jpg" class="lessonimg" title="AWS Lambda 无服务器计算" alt="AWS Lambda 无服务器计算">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4067&posColumn=4067.15"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4067.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4067&posColumn=4067.15">AWS Lambda 无服务器计算</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			Lambda是AWS提供的一款无服务器计算服务。您不需要管理服务器、不需要安装操作系统、不需要维护运行时环境、不需要担心应用的可用性和扩展性。本课程讲解Lambda的作用介绍， 如何撰写一个lambda 程序，使用Lambda的几个案例分享，只需上传您的代码，Lambda 会处理运行和扩展高可用性代码所需的一切工作。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>4课时
+							50分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+					<i class="xinhao-icon2"></i><em>中级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1405人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4067&posColumn=4067.1&aCCate=awsold" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4066" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4066.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4066&posColumn=4066.16">
+			<img src="https://a1.jikexueyuan.com/home/201710/25/d2d3/59f0086a0972f.jpg" class="lessonimg" title="AWS云中的内容分发设计" alt="AWS云中的内容分发设计">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4066&posColumn=4066.16"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4066.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4066&posColumn=4066.16">AWS云中的内容分发设计</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程中，AWS技术专家将会通过展示和实操的方式带您了解如何在管理控制台中对相关的AWS服务进行配置和操作，从而让您快速上手开始搭建自己的云架构。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>3课时
+							29分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1468人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/awsold/">
+						<img width="16" src="https://wirrorcdn.jikexueyuan.com/category/cloudcompute.png" alt="awsold" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4066&posColumn=4066.1&aCCate=awsold" >
+					</a>
+
+					<a href="//www.jikexueyuan.com/course/AWS/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201707/12/cfaf/59658a14894bf.png" alt="AWS" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4066&posColumn=4066.2&aCCate=AWS" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="3740" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/3740.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3740&posColumn=3740.17">
+			<img src="https://a1.jikexueyuan.com/home/201707/12/6613/596588dc6d439.jpg" class="lessonimg" title="AWS 云中云存储服务" alt="AWS 云中云存储服务">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3740&posColumn=3740.17"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/3740.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3740&posColumn=3740.17">AWS 云中云存储服务</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程中，AWS 架构师手把手教您使用云存储服务，让你快速上手 AWS 云存储服务。学完本课，你将理解基本的 S3 功能，建立S3的生命周期规则和存储服务。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>7课时
+							60分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1797人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/AWS/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201707/12/cfaf/59658a14894bf.png" alt="AWS" title="AWS" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=3740&posColumn=3740.1&aCCate=AWS" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4025" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4025.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4025&posColumn=4025.18">
+			<img src="https://a1.jikexueyuan.com/home/201709/26/d08a/59ca028c4b567.jpg" class="lessonimg" title="大数据平台研发工程师深入解读" alt="大数据平台研发工程师深入解读">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4025&posColumn=4025.18"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4025.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4025&posColumn=4025.18">大数据平台研发工程师深入解读</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			极客Talks是极客学院出品的一档谈话节目，会定期邀请每个行业/职业里最专业的嘉宾/CTO的好朋友做一次深度Talks，带领学员更好理解这个职业。本期邀请到神策网络创始人&amp;CTO曹犟，以聊天的形式，解读大数据平台研发工程师这个职业。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>1课时
+							51分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">3378人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/geektalks/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201709/27/af48/59cb1a62f2fba.jpg" alt="geektalks" title="数据研发" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4025&posColumn=4025.1&aCCate=geektalks" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4033" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4033.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4033&posColumn=4033.19">
+			<img src="https://a1.jikexueyuan.com/home/201709/26/14d5/59c9ff8e740cc.png" class="lessonimg" title="PaddlePaddle — 情感分析" alt="PaddlePaddle — 情感分析">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4033&posColumn=4033.19"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4033.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4033&posColumn=4033.19">PaddlePaddle — 情感分析</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本门课程讲解了使用PaddlePaddle框架实现情感分析功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>1课时
+							30分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2393人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/padlle/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201709/26/c4f4/59c9fbbc4a195.png" alt="padlle" title="PaddlePaddle" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4033&posColumn=4033.1&aCCate=padlle" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4034" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4034.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4034&posColumn=4034.20">
+			<img src="https://a1.jikexueyuan.com/home/201709/26/0a45/59c9ff9c41d95.png" class="lessonimg" title="PaddlePaddle — 数字识别" alt="PaddlePaddle — 数字识别">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4034&posColumn=4034.20"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4034.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4034&posColumn=4034.20">PaddlePaddle — 数字识别</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本门课程讲解了使用PaddlePaddle框架实现图像分类功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>1课时
+							24分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1863人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/padlle/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201709/26/c4f4/59c9fbbc4a195.png" alt="padlle" title="PaddlePaddle" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4034&posColumn=4034.1&aCCate=padlle" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4032" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4032.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4032&posColumn=4032.21">
+			<img src="https://a1.jikexueyuan.com/home/201709/26/7292/59c9ff135f931.png" class="lessonimg" title="PaddlePaddle — 图像分类" alt="PaddlePaddle — 图像分类">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4032&posColumn=4032.21"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4032.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4032&posColumn=4032.21">PaddlePaddle — 图像分类</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本门课程讲解了使用PaddlePaddle框架实现图像分类功能的应用实战，通过层层深入，带领开发者从真实的工作需求出发，完成AI图像技术中的热门功能。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>1课时
+							26分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">1736人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/padlle/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201709/26/c4f4/59c9fbbc4a195.png" alt="padlle" title="PaddlePaddle" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4032&posColumn=4032.1&aCCate=padlle" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="4031" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/4031.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4031&posColumn=4031.22">
+			<img src="https://a1.jikexueyuan.com/home/201709/26/315d/59ca01a8a03e7.png" class="lessonimg" title="PaddlePaddle — 新手入门" alt="PaddlePaddle — 新手入门">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4031&posColumn=4031.22"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/4031.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=4031&posColumn=4031.22">PaddlePaddle — 新手入门</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本门课程为PaddlePaddle框架新手入门第一课，主要讲解相关技术背景：机器学习基础原理、热门算法推导、模型处理方案等。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>1课时
+							49分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">2851人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/padlle/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201709/26/c4f4/59c9fbbc4a195.png" alt="padlle" title="PaddlePaddle" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=4031&posColumn=4031.1&aCCate=padlle" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="3976" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/3976.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3976&posColumn=3976.23">
+			<img src="https://a1.jikexueyuan.com/home/201709/14/675a/59b9ee93d5cf9.png" class="lessonimg" title="百度文字识别技术" alt="百度文字识别技术">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3976&posColumn=3976.23"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/3976.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3976&posColumn=3976.23">百度文字识别技术</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程主要针对API开发者，介绍百度OCR文字识别接口服务的相关技术内容。通过本门课程你将掌握OCR研发能力。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>2课时
+							11分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">3873人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/baiduai_wenzishibie/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201709/11/b67c/59b648bc6f592.png" alt="baiduai_wenzishibie" title="文字识别" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=3976&posColumn=3976.1&aCCate=baiduai_wenzishibie" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
+
+
+
+
+<li id="3999" test="0" deg="0" >
+	<div class="lessonimg-box">
+
+
+
+		<a href="//www.jikexueyuan.com/course/3999.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3999&posColumn=3999.24">
+			<img src="https://a1.jikexueyuan.com/home/201709/14/75cb/59b9e4c12f323.png" class="lessonimg" title="百度人脸识别技术" alt="百度人脸识别技术">
+
+			<div class="lessonplay" style="opacity: 0;">
+				<i class="playericon" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3999&posColumn=3999.24"></i>
+			</div>
+
+
+		</a>
+
+	</div>
+
+	<div class="lesson-infor" style="height: 88px;">
+		<h2 class="lesson-info-h2"><a href="//www.jikexueyuan.com/course/3999.html" target="_blank" jktag="&posGP=103001&posArea=0002&posOper=2004&aCId=3999&posColumn=3999.24">百度人脸识别技术</a></h2>
+		<p style="height: 0px; opacity: 0; display: none;">
+			本课程从技术简介、能力应用、热门场景实战等全方位讲解人脸识别基础相关技术，引领开发者快速入门。
+		</p>
+		<div class="timeandicon">
+			<div class="cf">
+				<dl>
+					<dd class="mar-b8"><i class="time-icon"></i><em>2课时
+							11分钟</em>
+					</dd>
+					<dd class="zhongji">
+
+						<i class="xinhao-icon"></i><em>初级</em>
+					</dd>
+
+				</dl>
+				<em class="learn-number">4349人学习</em>
+			</div>
+			<div class="cf">
+				<div class="lessonicon-box">
+
+					<a href="//www.jikexueyuan.com/course/baiduai_renlianshibie/">
+						<img width="16" src="https://a1.jikexueyuan.com/home/201709/11/aa50/59b648d11bcf4.png" alt="baiduai_renlianshibie" title="人脸识别" jktag="&posGP=101001&posArea=0002&posOper=2005&aCId=3999&posColumn=3999.1&aCCate=baiduai_renlianshibie" >
+					</a>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</li>
