@@ -2,32 +2,28 @@ import re
 import requests
 import json
 
-url = 'https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2017/league/00_full_schedule_week.json';
-urls = [];
-#
-# for index in range(1, 27):
-#     tmp_url = re.sub('/#!?(.*?)&PD', '/#!?Week=%d&PD' % index, url)
-#     urls.append(tmp_url)
+def get_game_info(week):
 
-headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36'}
-html = requests.get(url, headers=headers).content
-# html = requests.get(url)
-# html.encoding = 'utf-8'
-JSON_Dict = json.loads(html)
-JSON_lscd = JSON_Dict['lscd']
+    url = 'https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2017/league/00_full_schedule_week.json';
 
-game_info = []
+    headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/65.0.3325.181 Chrome/65.0.3325.181 Safari/537.36'}
+    html = requests.get(url, headers=headers)
+    html.encoding = 'utf-8'
+    JSON_Dict = json.loads(html.text)
+    JSON_lscd = JSON_Dict['lscd']
+    game_info = []
+    for data in JSON_lscd:
+        JSON_mscd = data['mscd']
+        JSON_GAMES = JSON_mscd['g']
 
-for data in JSON_lscd:
-    JSON_mscd = data['mscd']
-    JSON_GAMES = JSON_mscd['g']
+        for game in JSON_GAMES:
+            g = game['gweek']
+            if g == week:
+                game_info.append(game)
 
-    for game in JSON_GAMES:
-        g = game['gweek']
-        if g == 1:
-            game_info.append(game)
-
-print(game_info)
+def get_game_id(game_info_list):
+    game_id = []
+    
 
 # fp = open('tmp.txt', 'wb')
 # fp.write(html.content)

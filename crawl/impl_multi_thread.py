@@ -21,7 +21,7 @@ gid = re.findall('"gid": "(.*?)",', res.text, re.S)
 
 players_info = []
 time_start = time.time()
-pool = ThreadPool(3)
+pool = ThreadPool(4)
 res = pool.map(get_game_info, gid)
 # players_info.append(res)
 pool.close()
