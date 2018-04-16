@@ -1,6 +1,6 @@
 import requests
 import re
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 
 res = requests.get('https://data.nba.com/data/10s/v2015/json/mobile_teams/nba/2017/league/00_full_schedule_week.json')
 gid = re.findall('"gid": "(.*?)",', res.text, re.S)
